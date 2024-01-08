@@ -1,0 +1,5 @@
+*{
+  font-size:36px;
+  color:rgb(45, 45, 45);
+  background:rgb(255, 255, 255);
+  }
