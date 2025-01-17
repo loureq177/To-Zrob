@@ -2,20 +2,24 @@
 
 # To-Zrób ✅ 😎
 
-![Demo GIF](path/to/demo.gif)
+![Demo GIF](/demo.gif)
 
 </div>
 
-## Description
-*To-Zrób* is a simple program for creating and managing task lists and their categories.
+## Opis
+- *To-Zrób* to proste narzędzie do tworzenia i zarządzania listami zadań i ich kategoriami.
+- Napisane w Pythonie z wykorzystaniem biblioteki PyQt6.
+- Zapamiętuje Twoje zadania i kategorie, bo korzysta z pliku CSV jako "bazy danych" i wszystko zapisuje przy zamykaniu.
 
-## How to Run 🚀
-1. Make sure you have Python 3 installed along with the necessary dependencies.
-2. Install the required packages (e.g. PyQt6):  
+## Jak uruchomić 🚀
+1. Upewnij się, że masz zainstalowany Python 3 wraz ze wszystkimi niezbędnymi zależnościami.
+2. Zainstaluj wymagane pakiety z pliku `requirements.txt` (np. PyQt6):
+   ```bash
    pip install -r requirements.txt
-3. Run To-Zrób.py file and enjoy 😎
+   ```
+3. Uruchom plik To-Zrób.py i korzystaj do woli 😎
 
-## Project Structure
-- To-Zrób.py – main file containing the application logic
-- arkuszStylów.qss – interface styling
-- dane.csv – data file
+## Struktura projektu
+- To-Zrób.py – główny plik zawierający logikę aplikacji
+- arkuszStylów.qss – styl interfejsu
+- dane.csv – plik z danymi
