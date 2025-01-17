@@ -1,11 +1,10 @@
-<center>
+<div align="center">
 
 # To-Zrób ✅ 😎
 
-
 ![Demo GIF](path/to/demo.gif)
 
-</center>
+</div>
 
 ## Description
 *To-Zrób* is a simple program for creating and managing task lists and their categories.
